@@ -1,0 +1,6 @@
+[submodule "only-snippets-client"]
+	path = only-snippets-client
+	url = https://github.com/benamzz/only-snippets-client
+[submodule "only-snippets-server"]
+	path = only-snippets-server
+	url = https://github.com/benamzz/only-snippets-server
